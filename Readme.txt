@@ -38,4 +38,11 @@ Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
 
+##Preview
+![alt text](https://github.com/VIDAKHOSHPEY22/Resume/blob/main/assets/img/Screenshot%20Vida.png)
+
+watch this server
+
+https://vidakhoshpey22.github.io/Resume/
+
 
